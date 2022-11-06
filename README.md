@@ -13,3 +13,11 @@ Named after the region in the game Heroes2
 The world is an arbitrary square grid. There are different types of resources that randomly generate and can appear as you explore the grid.
 
 The constuctor for the main contract library takes a seed hash. Change this to generate a different continent every time.
+
+Icon pack by Shikashi:
+https://cheekyinkling.itch.io/shikashis-fantasy-icons-pack
+
+| Item         | IPFS     |
+| ------------ | -------- |
+| Juicy Apples | 1.99     |
+| Bananas      | **1.89** |
