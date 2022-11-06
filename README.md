@@ -16,6 +16,11 @@ The constuctor for the main contract library takes a seed hash. Change this to g
 Icon pack by Shikashi:
 https://cheekyinkling.itch.io/shikashis-fantasy-icons-pack
 
+![wood](https://user-images.githubusercontent.com/9449596/200186263-b59fccbb-5343-474c-9cd4-545752109468.png)
+![gold](https://user-images.githubusercontent.com/9449596/200186264-8710e47a-2c0c-435f-bbb0-c8fc633d8dd0.png)
+![apples](https://user-images.githubusercontent.com/9449596/200186265-188ca66d-c123-481b-a182-f7599e1471a3.png)
+![grass](https://user-images.githubusercontent.com/9449596/200186266-2d4ba1a4-68f0-4741-be18-6ac53266c9fd.png)
+
 | Item         | IPFS                                           | Index |
 | ------------ | ---------------------------------------------- | ----- |
 | Gold         | QmRkhkX4uFycLzdinFzS1jLL6nsKQt3uqSXWJ6EDuvPeDT | 1     |
