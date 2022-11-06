@@ -6,6 +6,10 @@ The goal of this is repo is really just to explain a concept of generative lands
 
 ![grid of pixels showing randomly generated resources on the plain](https://user-images.githubusercontent.com/9449596/200186506-351e7acf-693d-4484-9638-516fec7e074a.png)
 
+## Use
+1. Install: `npm i`
+2. Compile `npx hardhat compile`
+
 
 ## How it works
 
