@@ -4,8 +4,8 @@ Experiment for an onchain strategy explorer simulation in solidity, inspired by 
 
 The goal of this is repo is really just to explain a concept of generative landscapes with RPG qualities that use onchain mechanisms.
 
-<img width="645" alt="interpreter" src="https://user-images.githubusercontent.com/9449596/200182552-cf5387a6-20a6-4d1f-875b-3d1a62dd4c53.png">
-(Image from Heroes2)
+![grid of pixels showing randomly generated resources on the plain](https://user-images.githubusercontent.com/9449596/200186506-351e7acf-693d-4484-9638-516fec7e074a.png)
+
 
 ## How it works
 
