@@ -37,3 +37,6 @@ https://cheekyinkling.itch.io/shikashis-fantasy-icons-pack
 - Make the resources "claimable" as ERC1155s
 - Create a player-character that is always at a certain x,y position and move-able
 - allow claiming the resources only when the player is within 1 x,y of any particular location
+
+## Limits
+A game where every movement on the grid is a tx moving a player is too expensive right now to do onchain.
